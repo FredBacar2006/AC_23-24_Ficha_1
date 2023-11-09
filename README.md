@@ -81,7 +81,7 @@ P3 - Resposta:
     6. Executa a instrução.
     7. Armazena resultados (em registradores ou memória).
 
-    ![Diagrama](https://o.quizlet.com/cBYTeCQFphn6lW-wdg5v.Q.png)
+![Diagrama](https://o.quizlet.com/cBYTeCQFphn6lW-wdg5v.Q.png)
 
     
     
